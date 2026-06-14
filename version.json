@@ -1,6 +1,6 @@
 {
   "version_code": 2,
   "version_name": "1.0.0",
-  "apk": "https://github.com/TeroBsass/work_hard/blob/main/app-debug.apk",
+  "apk_url": "https://github.com/TeroBsass/work_hard/blob/main/app-debug.apk",
   "release_notes": "Исправленыбаги и функции, улучшен интерфуйс, добавлена функция копирования упражнений для составления плана"
 }
