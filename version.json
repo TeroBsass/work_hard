@@ -1,6 +1,6 @@
 {
-  "version_code":10,
-  "version_name": "1.0.4",
+  "version_code":11,
+  "version_name": "1.0.5",
   "apk_url": "https://raw.githubusercontent.com/TeroBsass/work_hard/main/app-debug.apk",
-  "release_notes": "Исправлены все объекты , которые должны менять цвет по теме."
+  "release_notes": "Исправлены уведомления."
 }
