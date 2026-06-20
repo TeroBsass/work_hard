@@ -1,6 +1,6 @@
 {
-  "version_code":11,
-  "version_name": "1.0.5",
+  "version_code":12,
+  "version_name": "1.0.6",
   "apk_url": "https://raw.githubusercontent.com/TeroBsass/work_hard/main/app-debug.apk",
-  "release_notes": "Исправлены уведомления."
+  "release_notes": "Добавлен умный режим для комментариев."
 }
