@@ -1,7 +1,7 @@
 {
-  "version_code":16,
-  "version_name": "1.2.1",
+  "version_code":17,
+  "version_name": "1.2.2",
   "apk_url": "https://raw.githubusercontent.com/TeroBsass/work_hard/main/app-debug.apk",
-  "release_notes": "Исправлены баги и улучшена оптимизация процесса.",
-  "release_notes_eng": "Fix problems and improve optimization of proccess."
+  "release_notes": "Добавлены новые упражнения и исправлены быги.",
+  "release_notes_eng": "Add new exercises and fix bugs."
 }
